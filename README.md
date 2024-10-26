@@ -40,9 +40,9 @@ I'm constantly exploring the latest in **Algorithmic Trading**, **Agritech Innov
 ---
 
 ## 📈 Featured Projects
-- **[Stock Price Predictor](https://github.com/SPP)**: An advanced, high-accuracy LSTM model for predicting stock prices using TensorFlow and time-series analysis.
-- **[DhaanGo](https://github.com/DhaanGo)**: A comprehensive web application improving farmer profitability through AI tools, real-time market rates, and a dual marketplace.
-- **[X-stats](https://github.com/X-Stats)**: Chrome extension tracking user activity on generative models with data visualization.
+- **[Stock Price Predictor](https://github.com/Aksh8t/Stock-Trend-Predictor-using-ML)**: An advanced, high-accuracy LSTM model for predicting stock prices using TensorFlow and time-series analysis.
+- **[DhaanGo](https://github.com/aksh8t/DhaanGo)**: A comprehensive web application improving farmer profitability through AI tools, real-time market rates, and a dual marketplace.
+- **[X-stats](https://github.com/aksh8t/X-Stats)**: Chrome extension tracking user activity on generative models with data visualization.
 
 ---
 
