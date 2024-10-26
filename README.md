@@ -1,8 +1,10 @@
-<div align="center">
-  <img src="https://i.imgur.com/4ASafy0.png" alt="Akshat's Workplace" width="150">
-  <h1>Welcome to Akshat's Workplace</h1>
-  <h3>A Passionate Developer and Innovator from India</h3>
-  <p>📈 Turning Ideas into Reality | 🚀 Coding for the Future</p>
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+<br>
+  <h1 align ="center">Welcome to Akshat's Workplace</h1>
+  <h3 align ="center">A Passionate Developer and Innovator from India</h3>
+  <p align ="center">📈 Turning Ideas into Reality | 🚀 Coding for the Future</p>
 </div>
 
 ---
