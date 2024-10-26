@@ -66,11 +66,4 @@ I'm constantly exploring the latest in **Algorithmic Trading**, **Agritech Innov
 </p>
 </details>
 
-<details>
-<summary><strong>Support My Work</strong></summary>
-<p align="center">
-<a href="https://www.buymeacoffee.com/akshat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
-</p>
-</details>
-
 --- 
