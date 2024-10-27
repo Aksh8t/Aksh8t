@@ -11,7 +11,7 @@
 
 ## 🌐 About Me
 🎓 <strong>B.Tech</strong> from <strong>IIIT Nagpur</strong> | 💼 <strong>Research Intern</strong> at IIITN<br>
-I'm constantly exploring the latest in **Algorithmic Trading**, **Agritech Innovations**, and **AI Development** to empower users and enhance tech accessibility. Driven by my passion for software engineering, I aim to create impactful, user-focused digital solutions.
+I'm constantly exploring the latest in **Algorithmic Trading**, **Web Development**, and **AI Development** to empower users and enhance tech accessibility. Driven by my passion for software engineering, I aim to create impactful, user-focused digital solutions.
 
 ---
 
