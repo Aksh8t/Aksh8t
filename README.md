@@ -53,17 +53,4 @@ I'm constantly exploring the latest in **Algorithmic Trading**, **Web Developmen
   <a href="https://instagram.com/aksh8t" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
 </p>
 
----
-
-<details>
-<summary><strong>More About My GitHub</strong></summary>
-
-<p align="center">
-  <a href="https://github.com/aksh8t">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aksh8t&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aksh8t&theme=algolia&layout=compact"/>
-  </a>
-</p>
-</details>
-
 --- 
