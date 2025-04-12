@@ -4,30 +4,46 @@
   </a>
 </div>
 
+<br/>
+
 ## <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 
 <br/>
 
-## <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=30&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Who+Am+I" alt="Typing SVG" /></a></div>
+## <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=30&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Who+Am+I" alt="Typing SVG" />
+  </a>
+</div>
 
-<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="2">
+<br/>
 
-- 🎓 2nd Year student at IIIT Nagpur
-- 🧠 Specialized in Machine Learning & AI agents
-- 🌐 Full Stack Web Developer (MERN)
-- 💼 Open to collaboration on innovative projects
-- 🚀 Constantly exploring new technologies
+<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="GIF" />
 
-<br clear="right"/>
+- 🎓 2nd Year student at IIIT Nagpur  
+- 🧠 Specialized in Machine Learning & AI agents  
+- 🌐 Full Stack Web Developer (MERN)  
+- 💼 Open to collaboration on innovative projects  
+- 🚀 Constantly exploring new technologies  
 
-## <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=30&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Typing SVG" /></a></div>
+<br clear="right" />
+
+---
+
+## <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=30&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 <table>
   <tr>
     <td width="40%">
-      <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" alt="gif" width="100%" />
+      <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" alt="GIF" width="100%" />
     </td>
     <td>
 
@@ -81,28 +97,40 @@
   </tr>
 </table>
 
+<br/>
 
+---
 
-## <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=30&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats" alt="Typing SVG" /></a></div>
+## <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=30&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 <table>
   <tr>
     <td width="60%" align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Aksh8t&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-<br/>
+<br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Aksh8t&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Aksh8t's GitHub stats" />
-<br/>
+<br/><br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aksh8t&theme=highcontrast&hide_border=true" alt="Profile Details" />
-<br/>
+<br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksh8t&custom_title=Aksh8t's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=90EE90&line=1E90FF&point=1E90FF&area_color=000000&title_color=90EE90&area=true" alt="GitHub Activity Graph" />
 
    </td>
     <td width="40%" align="center">
-      <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="3" width="100%" />
+      <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder GIF" width="100%" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=60&pause=1000&center=true&width=435&lines=Connect+with+Me)](https://git.io/typing-svg)
 
@@ -116,10 +144,15 @@
   <a href="https://twitter.com/akshat_35" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
+  <a href="https://instagram.com/aksh8t" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
 </p>
+
+<br/>
 
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-  <br />
+  <br/><br/>
   <img src="https://profile-counter.glitch.me/aksh8t/count.svg" alt="Visitor Count" />
 </div>
