@@ -22,7 +22,7 @@
 
 <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="GIF" />
 
-- 🎓 2nd Year student at IIIT Nagpur  
+- 🎓 3rd Year student at IIIT Nagpur  
 - 🧠 Specialized in Machine Learning & AI agents  
 - 🌐 Full Stack Web Developer (MERN)  
 - 💼 Open to collaboration on innovative projects  
