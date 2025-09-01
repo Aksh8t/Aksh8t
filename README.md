@@ -141,7 +141,7 @@
   <a href="mailto:akshat35tiwari@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/akshat_35" target="_blank">
+  <a href="https://twitter.com/aksh8t" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
   <a href="https://instagram.com/aksh8t" target="_blank">
