@@ -120,6 +120,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aksh8t&theme=highcontrast&hide_border=true" alt="Profile Details" />
 <br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksh8t&custom_title=Aksh8t's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=90EE90&line=1E90FF&point=1E90FF&area_color=000000&title_color=90EE90&area=true" alt="GitHub Activity Graph" />
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh8t&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
    </td>
     <td width="40%" align="center">
