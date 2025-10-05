@@ -112,8 +112,8 @@
 <table>
   <tr>
     <td width="60%" align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Aksh8t&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+     
+![](https://nirzak-streak-stats.vercel.app/?user=aksh8t&theme=highcontrast&hide_border=false)<br/>
 <br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Aksh8t&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Aksh8t's GitHub stats" />
 <br/><br/>
