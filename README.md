@@ -114,7 +114,7 @@
     <td width="60%" align="center">
      
 ![](https://nirzak-streak-stats.vercel.app/?user=aksh8t&theme=highcontrast&hide_border=false)<br/>
-<br/><br/>
+<br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=Aksh8t&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Aksh8t's GitHub stats" />
 <br/><br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aksh8t&theme=highcontrast&hide_border=true" alt="Profile Details" />
